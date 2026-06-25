@@ -1,0 +1,6 @@
+{
+  "name": "Emerald Prime",
+  "description": "Professional medical software solutions specializing in EMR, Pharmacy inventory management, and POS apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
